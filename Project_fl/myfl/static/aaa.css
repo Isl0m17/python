@@ -1,0 +1,64 @@
+body {
+    background-image: url("/static/images/qq.jpg");
+    background-repeat: no-repeat;
+    background-size: 500%;
+}
+
+.kartinka {
+    height: 270px; 
+    width: 452px; 
+    margin-left: 0px; 
+    margin-top: 0px;
+}
+
+.kartinka_2 {
+    height: 270px;
+    width: 452px;
+    margin-right: 0px;
+    margin-top: 0px;
+}
+.kartinka_3 {
+    height: 270px;
+    width: 452px;
+    margin-right: 0px;
+    margin-top: 0px;
+}
+
+.kartinka_4 {
+    height: 250px;
+    width: 452px;
+    margin-left: 1px;
+    margin-bottom: 2px;
+}
+
+.kartinka_5 {
+    height: 250px;
+    width: 452px;
+    margin-left: 0px;
+    margin-bottom: 2px;
+}
+
+.kartinka_6 {
+    height: 250px;
+    width: 452px;
+    margin-left: 0px;
+    margin-bottom: 2px;
+}
+
+.text {
+    width: 1200px;
+    height: auto;
+    margin-left: 100px;
+}
+
+.text_2 {
+    width: 900px;
+    height: auto;
+    margin-left: 100px;
+}
+
+.text_3 {
+    width: 900px;
+    height: auto;
+    margin-left: 100px;
+}
